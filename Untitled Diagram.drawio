@@ -940,7 +940,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dDkFH5Ff9M02Oupnt17l-316" value="InsuranceAgent" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;miterlimit=4;swimlaneLine=1;strokeColor=#006658;rounded=1;labelBackgroundColor=none;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
-          <mxGeometry x="650" y="860" width="180" height="90" as="geometry">
+          <mxGeometry x="660" y="850" width="180" height="90" as="geometry">
             <mxRectangle x="740" y="-80" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
